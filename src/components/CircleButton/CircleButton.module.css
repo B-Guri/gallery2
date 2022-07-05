@@ -1,0 +1,11 @@
+.goup{
+    position: fixed;
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    background-color: teal;
+    color: #fff;
+    cursor: pointer;
+    font-size: 30px;
+    text-align: center;
+}

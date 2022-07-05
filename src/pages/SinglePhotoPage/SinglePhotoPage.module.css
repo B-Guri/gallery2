@@ -1,0 +1,44 @@
+.photo{
+    display: flex;
+    justify-content: center;
+}
+
+.author__content{
+    width: 400px;
+    margin: 10px auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.heart{
+    color: red;
+    font-size: 24px;
+    margin: 0 5px;
+}
+
+.author__info{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.author__info > img{
+    border-radius: 50%;
+    overflow: hidden;
+    margin: 0 10px;
+}
+
+.likes__info{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 10px;
+}
+
+.likes__count{
+    font-size: 16px;
+    font-weight: bold;
+}
